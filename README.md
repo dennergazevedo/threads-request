@@ -1,5 +1,5 @@
 # Threads
-Esse repositório contém um exemplo simples de Threads no JAVA com comunicação via API para envio de informações em massa.
+Esse repositório contém um exemplo simples de Lista Sincronizada no JAVA com threads para comunicação via API para envio de informações em massa.
 
 ## Pré-requisitos
 * Java JDK 14 ou superior
